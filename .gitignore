@@ -1,0 +1,10 @@
+# Ignore Max backups and cache
+*.maxbak
+*.mxo
+*.mx75
+*.as
+*.autosave
+
+# Optional: ignore Max-generated project folders
+/_pluggodata/
+/_build/
