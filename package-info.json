@@ -1,0 +1,8 @@
+{
+  "name": "EboBachTools",
+  "author": "EboH",
+  "version": "0.1.0",
+  "description": "Abstractions and tools for working with Bach in Max",
+  "homepage": "https://github.com/delboh/ebo-bach-tools",
+  "tags": ["bach", "llll", "composition", "abstractions"]
+}
