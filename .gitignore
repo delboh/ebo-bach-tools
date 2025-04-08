@@ -8,3 +8,6 @@
 # Optional: ignore Max-generated project folders
 /_pluggodata/
 /_build/
+
+# mac crud
+._*
